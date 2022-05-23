@@ -1,0 +1,15 @@
+C:\Users\Jana\source\repos\FPIS\Domen\bin\Debug\net5.0\Domen.deps.json
+C:\Users\Jana\source\repos\FPIS\Domen\bin\Debug\net5.0\Domen.runtimeconfig.json
+C:\Users\Jana\source\repos\FPIS\Domen\bin\Debug\net5.0\Domen.runtimeconfig.dev.json
+C:\Users\Jana\source\repos\FPIS\Domen\bin\Debug\net5.0\Domen.dll
+C:\Users\Jana\source\repos\FPIS\Domen\bin\Debug\net5.0\ref\Domen.dll
+C:\Users\Jana\source\repos\FPIS\Domen\bin\Debug\net5.0\Domen.pdb
+C:\Users\Jana\source\repos\FPIS\Domen\obj\Debug\net5.0\Domen.csproj.AssemblyReference.cache
+C:\Users\Jana\source\repos\FPIS\Domen\obj\Debug\net5.0\Domen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jana\source\repos\FPIS\Domen\obj\Debug\net5.0\Domen.AssemblyInfoInputs.cache
+C:\Users\Jana\source\repos\FPIS\Domen\obj\Debug\net5.0\Domen.AssemblyInfo.cs
+C:\Users\Jana\source\repos\FPIS\Domen\obj\Debug\net5.0\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Jana\source\repos\FPIS\Domen\obj\Debug\net5.0\Domen.dll
+C:\Users\Jana\source\repos\FPIS\Domen\obj\Debug\net5.0\ref\Domen.dll
+C:\Users\Jana\source\repos\FPIS\Domen\obj\Debug\net5.0\Domen.pdb
+C:\Users\Jana\source\repos\FPIS\Domen\obj\Debug\net5.0\Domen.genruntimeconfig.cache
